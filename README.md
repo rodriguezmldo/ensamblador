@@ -14,7 +14,7 @@
 
 ## Presentación
 Repositorio donde se pueden encontrar las prácticas y proyectos de la materia de ensamblador en BUAP.
-Acompañados con la ayuda del Dr. José Andrés Velazquez Flores. 
+Acompañados con la ayuda del Dr. José Andrés Vásquez Flores. 
 
 - - -
 
